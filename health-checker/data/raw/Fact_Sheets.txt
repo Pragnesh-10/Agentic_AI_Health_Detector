@@ -1,0 +1,324 @@
+﻿DENGUE
+Key facts
+* Dengue is a viral infection caused by the dengue virus (DENV), which is transmitted to humans through the bite of infected mosquitoes.
+* About half of the world's population is now at risk of dengue, with an estimated 100–400 million infections occurring each year.
+* Dengue is found in tropical and sub-tropical climates worldwide, mostly in urban and semi-urban areas.
+* While many DENV infections are asymptomatic or produce only mild illness, DENV can occasionally cause more severe cases, and even death.
+* Prevention and control of dengue rely on vector control. There is no specific treatment for dengue/severe dengue, and early detection and access to proper medical care greatly lower fatality rates of severe dengue.
+________________
+
+
+Overview
+Dengue (break-bone fever) is a viral infection that is spread from mosquitoes to people. It is more common in tropical and subtropical than in temperate climates.
+Most people who get dengue do not have symptoms. For those who do, the most common symptoms are high fever, headache, body aches, nausea and rash. Most get better in 1–2 weeks. Some develop severe dengue and need care in a hospital. 
+In severe cases, dengue can be fatal.  
+You can lower your risk of dengue by avoiding mosquito bites, especially during the day.
+Dengue is treated through pain management as there is no specific treatment currently.
+Symptoms
+Most people with dengue have mild or no symptoms and will get better in 1–2 weeks. Rarely, dengue can be severe and lead to death.  
+If symptoms occur, they usually begin 4–10 days after infection and last for 2–7 days. Symptoms may include:
+* high fever (40°C/104°F)
+* severe headache
+* pain behind the eyes
+* muscle and joint pains
+* nausea
+* vomiting
+* swollen glands
+* rash. 
+Individuals who are infected for the second time are at greater risk of severe dengue. The symptoms of severe dengue often come after the fever has gone away and may include:
+* severe abdominal pain
+* persistent vomiting
+* rapid breathing
+* bleeding gums or nose 
+* fatigue
+* restlessness
+* blood in vomit or stool
+* being very thirsty
+* pale and cold skin
+* feeling weak.
+People with these severe symptoms should seek care immediately.  
+After recovery, people who have had dengue may experience fatigue for several weeks.
+Diagnostics and treatment
+Laboratory-based and point of care diagnostics are critical to control and manage dengue, yet global disparities in laboratory capabilities present significant challenges. The diagnostic algorithms, testing strategies and test methodologies employed vary, depending on the capabilities of national laboratory systems. The wide range of available tests – including nucleic acid amplification tests (NAATs), enzyme-linked immunosorbent assays (ELISAs) and rapid diagnostic tests (RDTs) –  vary significantly in quality and performance.
+Laboratory testing for arboviruses can be accomplished through either direct detection methods such as virus isolation, molecular detection of nucleic acid or antigen testing, including rapid diagnostic tests (RDTs) within the first week of illness.
+There is no specific treatment for dengue, although pain can be managed with medication such as paracetamol (acetaminophen). Non-steroidal anti-inflammatory medicines such as ibuprofen and aspirin should be avoided as they can increase the risk of bleeding.
+For people with severe dengue, hospitalization is often necessary.
+Global burden
+The incidence of dengue has grown dramatically worldwide in recent decades, with the number of cases reported to WHO increasing from 505 430 cases in 2000 to 14.6 million in 2024. The vast majority of cases are asymptomatic or mild and self-managed, and hence the actual numbers of dengue cases are under-reported. The disease is now endemic in more than 100 countries.
+In 2024, more cases of dengue were recorded than ever before in a 12-month period, affecting over 100 countries on all continents. During 2024, ongoing transmission, combined with an unexpected spike in dengue cases, resulted in a historic high of over 14.6 million cases and more than 12 000 dengue-related deaths reported. The Region of the Americas contributed a significant proportion of the global burden, with over 13 million cases reported to WHO. 
+Several factors are associated with the increasing risk of spread of the dengue epidemic, including the changing distribution of the responsible vectors (chiefly Aedes aegypti and Aedes albopictus), especially in previously dengue-naive countries; climate change leading to increasing temperatures, high rainfall and humidity; fragile and overburdened health systems; limitations in surveillance and reporting; and political and financial instabilities in countries facing complex humanitarian crises and high population movements.
+One modelling estimate indicates 390 million dengue virus infections per year, of which 96 million manifest clinically(1).A recent study on the prevalence of dengue estimates that 5.6 billion people are at risk of infection with dengue and other arboviruses(2).
+From January to July 2025, over 4 million cases and over 3000 deaths have been reported to WHO from 97 countries.
+Dengue is spreading to new areas, including the European and Eastern Mediterranean regions. In 2024, 308 cases were reported to WHO from three European countries (France, Italy and Spain) and an additional 1291 cases and four deaths were recorded in the French overseas territories of Mayotte and Réunion. 
+Transmission
+Transmission through the mosquito bite
+The dengue virus is transmitted to humans through the bites of infected female mosquitoes, primarily the Aedes aegypti mosquito. Other species within the Aedes genus can also act as vectors, but their contribution is normally secondary to Aedes aegypti.
+After feeding on a DENV-infected person, the virus replicates in the mosquito midgut before disseminating to secondary tissues, including the salivary glands. The time it takes from ingesting the virus to actual transmission to a new host is termed the extrinsic incubation period (EIP). The EIP takes about 8–12 days when the ambient temperature is 25–28°C. Variations in the EIP are not only influenced by ambient temperature but also by several other factors – such as the magnitude of daily temperature fluctuations, the virus genotype, and the initial viral concentration – which can also alter the time it takes for a mosquito to transmit the virus. Once infectious, a mosquito can transmit the virus for the rest of its life.
+Human-to-mosquito transmission
+Mosquitoes can become infected by people who are viremic with DENV. This can be someone who has a symptomatic dengue infection, someone who is yet to have a symptomatic infection (those who are pre-symptomatic), and also someone who shows no signs of illness (those who are asymptomatic).
+Human-to-mosquito transmission can occur up to 2 days before someone shows symptoms of the illness, and up to 2 days after the fever has resolved.
+The risk of mosquito infection is positively associated with high viremia and high fever in the patient; conversely, high levels of DENV-specific antibodies are associated with a decreased risk of mosquito infection. Most people are viremic for about 4–5 days, but viremia can last as long as 12 days.
+Maternal transmission
+The primary mode of transmission of the DENV between humans involves mosquito vectors. There is evidence, however, of the possibility of maternal transmission (i.e. from a pregnant mother to her baby). At the same time, vertical transmission rates appear low, with the risk of vertical transmission seemingly linked to the timing of acquiring the dengue infection during pregnancy. When a mother does have a dengue infection when she is pregnant, babies may suffer from pre-term birth, low birthweight and fetal distress.
+Other transmission modes
+Rare cases of transmission via blood products, organ donation and transfusions have been recorded. Similarly, transovarial transmission of the virus within mosquitoes has also been recorded. 
+Risk factors
+Previous infection with DENV increases the risk of an individual developing severe dengue.
+Urbanization (especially rapid, unplanned urbanization), is associated with dengue transmission through multiple social and environmental factors: population density, human mobility, access to reliable water source, water storage practices, etc.
+Community risks to dengue also depend on population knowledge, attitudes and practices towards dengue, as exposure is closely related to behaviours such as water storage, plant-keeping and self-protection against mosquito bites. Routine vector surveillance and control activities and targeted community engagement greatly enhance resilience. 
+Vectors can adapt to new environments and climate. The interaction between the dengue virus, the host and the environment is dynamic. Consequently, disease risks may change and shift with climate change in tropical and subtropical areas, in combination with increased urbanization and population movement.
+Prevention and control
+The mosquitoes that spread dengue are active during the day. 
+To lower your risk of getting dengue, protect yourself from mosquito bites by using: 
+* clothes that cover as much of your body as possible;
+* mosquito nets, ideally sprayed with insect repellent, if sleeping during the day;
+* window screens;
+* mosquito repellents (containing DEET, Picaridin or IR3535); and
+* coils and vaporizers.
+To prevent mosquitoes from breeding:
+* implement environmental management and modification practices to stop mosquitoes from accessing egg-laying habitats;
+* dispose of solid waste properly and remove artificial habitats that can hold water;
+* cover, empty and clean domestic water storage containers on a weekly basis; and
+* apply appropriate insecticides to water storage outdoor containers.
+If you get dengue, it’s important to:
+* rest;
+* drink plenty of liquids;
+* use acetaminophen (paracetamol) for pain;
+* avoid non-steroidal anti-inflammatory medication such as ibuprofen and aspirin; and
+* watch for severe symptoms and contact your doctor as soon as possible if you notice any.
+Currently, one vaccine (QDenga) is available and licensed in some countries. However, it is recommended only for those aged 6–16 years in high transmission settings. Several additional vaccines are under evaluation.
+WHO response
+WHO responds to dengue by:
+* supporting countries in the confirmation of outbreaks through its collaborating network of laboratories;
+* providing technical advice and guidance to countries for the effective management of dengue outbreaks;
+* supporting countries to improve their reporting systems and capture the true burden of the disease;
+* providing training on clinical management, diagnosis and vector control at the country and regional levels in collaboration with its collaborating centres;
+* formulating evidence-based strategies and policies;
+* supporting countries to develop dengue prevention and control strategies and adopt the Global Vector Control Response (2017–2030) and the Global Arbovirus Initiative (2022–2025);
+* reviewing and making recommendations on the development of new tools, including insecticide products and application technologies;
+* gathering official records of dengue and severe dengue from over 100 Member States; and
+* publishing guidance and handbooks for surveillance, case management, diagnosis, dengue prevention and control for Member States.
+
+
+Lessa Fever
+Key facts
+* Lassa fever is an acute viral illness that is caused by Lassa virus.
+* Lassa fever is known to be endemic in Benin, Ghana, Guinea, Liberia, Mali, Nigeria and Sierra Leone, but probably exists in other west African countries as well.
+* The Lassa virus is primarily transmitted to humans via contact with food or household items contaminated with rodent urine or faeces.
+* Person-to-person transmission can also occur, particularly in health care settings lacking adequate infection prevention and control measures.
+* The overall case fatality rate is 1% but observed case fatality rate among patients hospitalized with severe diseases of Lassa fever is 15% and above.
+* Early intensive supportive care with rehydration and symptomatic treatment improves chances of survival.
+________________
+
+
+Overview
+Lassa fever is an acute viral illness caused by Lassa virus that was first identified in 1969 in Nigeria. The virus belongs to the virus family Arenaviridae.
+Lassa fever is a zoonotic disease, meaning that humans become infected from contact with infected animals. The animal reservoir, or host, of Lassa virus is a rodent of the genus Mastomys, commonly known as the multimammate rat. Mastomys rats infected with Lassa virus do not become ill, but they can shed the virus in their urine and faeces.
+About 80% of people who become infected with Lassa virus have no or mild symptoms. One in 5 infections result in severe disease, where the virus affects several organs such as the liver, spleen and kidneys.
+Because the clinical course of the disease is very variable, detection of the disease in affected patients has been difficult. When presence of the disease is confirmed in a community, early detection and prompt isolation and care of patients, good infection prevention and control practices in healthcare settings, and promoting community hygiene and rodent prevention, can prevent further spread of the disease.
+Transmission
+Humans primarily become infected with Lassa virus either through exposure to food or household items that are contaminated with urine or faeces of infected Mastomys rat, or directly via contact with infected rats.
+Mastomys rats are ubiquitous to west Africa. They can be found living in and around homes, colonizing areas where food is stored and are able to live in fields or cleared forest. While Mastomys rats serve as the main reservoir, Lassa virus has been also isolated from other rodent species, suggesting their potential role as additional source of infection.
+Although to a much less extent, Lassa virus may also spread between humans through direct contact with blood, urine, faeces or other bodily secretions of a person infected with Lassa fever. Person-to-person transmission may occur primarily in health-care settings, where the virus may also be spread by contaminated medical equipment, such as re-used needles.
+Health workers are at risk if caring for Lassa fever patients in the absence of appropriate infection prevention and control practices.
+Lassa virus may persist in the semen of some males who recovered from the disease for up to few months. However, to date no transmission via exposure to infected semen had ever been documented.
+There is no epidemiological evidence supporting airborne spread between humans.
+Symptoms
+The incubation period of Lassa fever ranges from 2–21 days.
+When it is symptomatic, the onset of the disease is usually gradual, starting with fever, general weakness headache and malaise. After a few days, sore throat, muscle pain, chest pain, nausea, vomiting, diarrhoea, cough and abdominal pain may follow. As the disease progresses, in severe cases facial swelling, fluid in the lung cavity, bleeding from the mouth, nose, vagina or gastrointestinal tract and low blood pressure may develop. Shock, seizures, tremor, disorientation, and coma may be seen in the later stages. Among hospitalized patients, approximately 15% die of Lassa fever disease. In fatal cases, death usually occurs within 14 days of symptom onset.
+During pregnancy, Lassa fever can cause high maternal and foetal mortality, especially late in pregnancy. In the third trimester, fetal death and maternal death rates can exceed 80% and 30% respectively.
+Recovery can take a long time (prolonged convalescence) and sometimes leads to other conditions (sequelae). Sudden hearing loss has been reported with varying incidence and up to 25% of recovered patients, both during acute disease and after recovery. In most circumstances hearing loss is reported to be permanent. Other sequelae including neurological signs, visual impairment, joint pain, transient hair loss and psychological disorders have been reported to a lesser extent. Therefore, patients who have recovered from Lassa fever should receive care for sequelae they may experience.
+Diagnosis
+It can be difficult to clinically distinguish Lassa fever from other infectious diseases such as malaria, typhoid fever, shigellosis, yellow fever and other viral haemorrhagic fevers, especially early in the course of the disease.
+Confirmation that symptoms are caused by Lassa virus infection are made using the following diagnostic methods:
+* reverse transcriptase polymerase chain reaction (RT-PCR) assay
+* antibody enzyme-linked immunosorbent assay (ELISA)
+* antigen detection tests
+* virus isolation by cell culture.
+Samples collected from patients are an extreme biohazard risk; laboratory testing on non-inactivated samples should be conducted under maximum biological containment conditions. All non-inactivated biological specimens should be packaged using the triple packaging system when transported nationally and internationally.
+Treatment
+Early intensive supportive care including fluid management and treatment of specific symptoms, can improve survival chance.
+There is currently no antiviral drug approved for Lassa fever. The antiviral drug ribavirin has been given as treatment for Lassa fever; however, there is currently considerable uncertainties about its efficacy on the outcome of patients with Lassa fever, as well as on its optimal dosing regimens. Whenever possible, patients should be enrolled into a randomized clinical trial with ribavirin or other investigational therapeutics to assess clinical outcomes and safety.
+Other candidate treatment options are at several stages of development and evaluation.
+There is currently no licensed vaccine for Lassa fever, but several potential candidate vaccines are in development.
+Prevention and control
+Reducing the risk of rodent-to-human transmission
+Prevention of Lassa fever relies on limiting contact with rodent population. Promoting good community hygiene to discourage rodents from entering homes and adapting the following measures may help:
+* storage of grain and food in rodent-proof containers
+* maintaining a clean household including disposal of garbage far from home
+* safe preparation of food (e.g. by thoroughly cooking).
+Because Mastomys are so abundant in endemic areas, it is not possible to completely eliminate them from the environment.
+Reducing the risk of transmission in healthcare settings
+In healthcare settings, staff should always apply standard infection prevention and control precautions when caring for patients, regardless of their presumed diagnosis. These include basic hand hygiene, respiratory hygiene, use of personal protective equipment, and safe injection practices. Healthcare workers caring for patients with suspected or confirmed Lassa fever should apply extra infection control measures to prevent contact with the patient’s blood and body fluids and contaminated surfaces or materials such as clothing and bedding. Laboratory workers are also at risk. Samples taken from humans and animals for investigation of Lassa virus infection should be handled by trained staff and processed in suitably equipped laboratories under maximum biological containment conditions.
+Early disease recognition can improve survival chance and limit risk of transmission
+In endemic areas, especially during the epidemic season, health workers should have a higher level of suspicion for Lassa fever in patients presenting with suggestive symptoms. Family members should always be careful to avoid contact with blood and body fluids while caring for sick persons. Patients suspected or confirmed for Lassa fever should be referred to a designated treatment center for early care.
+Lassa fever in travellers returning from endemic areas
+On rare occasions, travellers returning from endemic areas were confirmed for Lassa fever. Although malaria, typhoid fever and many other tropical infections are much more common, the diagnosis of Lassa fever should be considered in febrile patients returning from west Africa, especially if they have had exposures in areas where Lassa fever is known to be endemic. Healthcare workers seeing a patient suspected to have Lassa fever should immediately contact local and national experts for advice and to arrange for laboratory testing.
+WHO response
+WHO works closely with Lassa fever endemic countries and partners to support the preparedness and response to Lassa fever by supporting surveillance activities, clinical management, laboratory services, infection prevention and control measures, logistics, training and community engagement.
+Generation of further knowledge including for diagnostics and therapeutics, and exchange of expertise across countries and partners, is critical to contribute to the management of Lassa fever, in particular reducing associated mortality and limiting human-to-human transmission in healthcare facilities.
+
+
+Malaria
+Key facts
+* Globally in 2024, there were an estimated 282 million malaria cases and 610 000 malaria deaths in 80 countries.
+* The WHO African Region carries a disproportionately high share of the global malaria burden.
+* In 2024, the WHO African Region was home to 95% of malaria cases (265 million) and 95% (579 000) of malaria deaths.
+* Children under 5 accounted for about 75% of all malaria deaths in the Region.
+________________
+
+
+Overview
+Malaria is a life-threatening disease spread to humans by some types of mosquitoes. It is mostly found in tropical countries. It is preventable and curable.
+The infection is caused by a parasite and does not spread from person to person.
+Symptoms can be mild or life-threatening. Mild symptoms are fever, chills and headache. Severe symptoms include fatigue, confusion, seizures, and difficulty breathing.
+Infants, children under 5 years, pregnant women and girls, travellers and people with HIV or AIDS are at higher risk of severe infection. 
+Malaria can be prevented by avoiding mosquito bites and with medicines. Treatments can stop mild cases from getting worse.
+Malaria mostly spreads to people through the bites of some infected female Anopheles mosquitoes. Blood transfusion and contaminated needles may also transmit malaria. The first symptoms may be mild, similar to many febrile illnesses, and difficulty to recognize as malaria. Left untreated, P. falciparum malaria can progress to severe illness and death within 24 hours.
+There are 5 Plasmodium parasite species that cause malaria in humans and 2 of these species – P. falciparum and P. vivax – pose the greatest threat. P. falciparum is the deadliest malaria parasite and the most prevalent on the African continent. P. vivax is the dominant malaria parasite in most countries outside of sub-Saharan Africa. The other malaria species which can infect humans are P. malariae, P. ovale and P. knowlesi.
+Symptoms
+The most common early symptoms of malaria are fever, headache and chills.
+Symptoms usually start within 10–15 days of getting bitten by an infected mosquito.
+Symptoms may be mild for some people, especially for those who have had a malaria infection before. Because some malaria symptoms are not specific, getting tested early is important. 
+Some types of malaria can cause severe illness and death. Infants, children under 5 years, pregnant women, travellers and people with HIV or AIDS are at higher risk. Severe symptoms include:
+* extreme tiredness and fatigue 
+* impaired consciousness
+* multiple convulsions
+* difficulty breathing
+* dark or bloody urine
+* jaundice (yellowing of the eyes and skin) 
+* abnormal bleeding.
+People with severe symptoms should get emergency care right away. Getting treatment early for mild malaria can stop the infection from becoming severe. 
+Malaria infection during pregnancy can also cause premature delivery or delivery of a baby with low birth weight.
+Disease burden
+According to the latest World malaria report, there were 282 million cases of malaria in 2024, an increase of about 9 million cases (3%) compared with 2023. The estimated number of malaria deaths stood at 610 000 in 2024 compared to 598 000 in 2023.
+The WHO African Region continues to carry a disproportionately high share of the global malaria burden. In 2024 the Region was home to about 95% of all malaria cases and deaths. Children under 5 years of age accounted for about 76% of all malaria deaths in the Region.
+Over half of all deaths in the Region occurred in three countries: Nigeria (31.9%), the Democratic Republic of the Congo (11.7%), and Niger (6.1%). Children under 5 years of age accounted for about 75% of all malaria deaths in the Region.
+Prevention
+Malaria can be prevented by avoiding mosquito bites and by taking medicines. Talk to a doctor about taking medicines such as chemoprophylaxis before travelling to areas where malaria is common.
+Lower the risk of getting malaria by avoiding mosquito bites:  
+* Use mosquito nets when sleeping in places where malaria is present.
+* Use mosquito repellents (containing DEET, IR3535 or Icaridin) after dusk.
+* Use coils and vaporizers.
+* Wear protective clothing.
+* Use window screens.
+Vector control
+Vector control is a vital component of malaria control and elimination strategies as it is highly effective in preventing infection and reducing disease transmission. The 2 core interventions are insecticide-treated nets (ITNs) and indoor residual spraying (IRS).
+Progress in global malaria control is threatened by emerging resistance to insecticides among Anopheles mosquitoes. However, new generation nets, which provide better protection against malaria than pyrethroid-only nets, are becoming more widely available and represent an important tool in global efforts to combat malaria.
+Anopheles stephensi presents an added challenge for malaria control in Africa. Originally native to parts of south Asia and the Arabian Peninsula, the invasive mosquito species has been expanding its range over the last decade, with detections reported to date in eight African countries. An. stephensi thrives in urban settings, endures high temperatures and is resistant to many of the insecticides used in public health.
+Chemoprophylaxis
+Travellers to malaria endemic areas should consult their doctor several weeks before departure. The medical professional will determine which chemoprophylaxis drugs are appropriate for the country of destination. In some cases, chemoprophylaxis drugs must be started 2–3 weeks before departure. All prophylactic drugs should be taken on schedule for the duration of the stay in the malaria risk area and should be continued for 4 weeks after the last possible exposure to infection since parasites may still emerge from the liver during this period.
+Preventive chemotherapies
+Preventive chemotherapy is the use of medicines, either alone or in combination, to prevent malaria infections and their consequences. It requires giving a full treatment course of an antimalarial medicine to vulnerable populations at designated time points during the period of greatest malarial risk, regardless of whether the recipients are infected with malaria.
+Preventive chemotherapy includes perennial malaria chemoprevention (PMC), seasonal malaria chemoprevention (SMC), intermittent preventive treatment of malaria in pregnancy (IPTp) and school-aged children (IPTsc), post-discharge malaria chemoprevention (PDMC) and mass drug administration (MDA). These safe and cost-effective strategies are intended to complement ongoing malaria control activities, including vector control measures, prompt diagnosis of suspected malaria, and treatment of confirmed cases with antimalarial medicines.
+Vaccine
+Since October 2021, WHO has recommended broad use of the RTS,S/AS01 malaria vaccine among children living in regions with moderate to high P. falciparum malaria transmission. The vaccine has been shown to significantly reduce malaria, and deadly severe malaria, among young children. In October 2023, WHO recommended a second safe and effective malaria vaccine, R21/Matrix-M. Vaccines are now being rolled out in routine childhood immunization programmes across Africa.  Malaria vaccines in Africa are expected to save tens of thousands of young lives every year. The highest impact will be achieved, however, when the vaccines are introduced alongside a mix of other WHO-recommended malaria interventions such as bed nets and chemoprophylaxis.
+Questions and answers on malaria vaccines
+Treatment
+Early diagnosis and treatment of malaria reduces disease, prevents deaths and contributes to reducing transmission. WHO recommends that all suspected cases of malaria be confirmed using parasite-based diagnostic testing (through either microscopy or a rapid diagnostic test).
+Malaria is a serious infection and always requires treatment with medicine.
+Multiple medicines are used to prevent and treat malaria. Doctors will choose one or more based on: 
+* the type of malaria 
+* whether a malaria parasite is resistant to a medicine
+* the weight or age of the person infected with malaria 
+* whether the person is pregnant.
+These are the most common medicines for malaria:
+* Artemisinin-based combination therapy medicines are the most effective treatment for P. falciparum malaria.
+* Chloroquine is recommended for treatment of infection with the P. vivax parasite only in places where it is still sensitive to this medicine.
+* Primaquine should be added to the main treatment to prevent relapses of infection with the P. vivax and P. ovale parasites. 
+Most medicines used are in pill form. Some people may need to go to a health centre or hospital for injectable medicines.
+Antimalarial drug resistance
+Subsequent to the emergence of partial artemisinin resistance in the Greater Mekong subregion, WHO is very concerned about confirmed partial artemisinin resistance in Eritrea, Rwanda, Uganda and the United Republic of Tanzania. Based on available evidence, such resistance is also suspected in Ethiopia, Namibia, Sudan and Zambia.
+In 2022, WHO developed a strategy to curb antimalarial drug resistance in Africa. Regular monitoring of antimalarial drug efficacy is needed to inform treatment policies in malaria-endemic countries, and to ensure early detection of, and response to, drug resistance.
+For more on WHO’s work on antimalarial drug resistance in the Greater Mekong subregion, visit the Mekong Malaria Elimination Programme webpage.
+Genetic mutations
+Most rapid diagnostic tests (RDTs) for malaria target one or two specific proteins produced by the P. falciparum malaria parasite: HRP2 and HRP3. However, parasites with genetic mutations, that prevent the expression of these proteins, are not detected by these tests. This means that malaria patients may not be diagnosed, allowing these mutated parasites to spread. In 2024, these mutated parasites were reported in 42 malaria endemic countries; with Viet Nam reporting for the first time in 2024. Although the estimated prevalence is still low in most countries, it exceeds 15% in Brazil, Djibouti, Eritrea, Ethiopia, Nicaragua and Peru.
+Elimination
+Malaria elimination is defined as the interruption of local transmission of a specified malaria parasite species in a defined geographical area as a result of deliberate activities. Continued measures to prevent re-establishment of transmission are required.
+In 2024, 37 countries reported fewer than 1000 indigenous cases of the disease, up from just 13 countries in 2000. Countries that have achieved at least 3 consecutive years of zero indigenous cases of malaria are eligible to apply for the WHO certification of malaria elimination. Since 2017, 14 countries have been certified by the WHO Director-General as malaria-free, including Maldives (2015), Sri Lanka (2016), Kyrgyzstan (2016), Paraguay (2018), Uzbekistan (2018), Argentina (2019), Algeria (2019), China (2021), El Salvador (2021), Azerbaijan (2023), Tajikistan (2023), Belize (2023), Cabo Verde (2024), Egypt (2024), Georgia (2025), Suriname (2025) and Timor-Leste (2025).
+Countries and territories certified malaria-free by WHO.
+Surveillance
+Malaria surveillance is the continuous and systematic collection, analysis and interpretation of malaria-related data, and the use of that data in the planning, implementation and evaluation of public health practice. Improved surveillance of malaria cases and deaths helps ministries of health determine which areas or population groups are most affected and enables countries to monitor changing disease patterns. Strong malaria surveillance systems also help countries design effective health interventions and evaluate the impact of their malaria control programmes.
+WHO response
+The WHO Global technical strategy for malaria 2016–2030, updated in 2021, provides a technical framework for all malaria-endemic countries. It is intended to guide and support regional and country programmes as they work towards malaria control and elimination.
+The strategy sets ambitious but achievable global targets, including:
+* reducing malaria case incidence by at least 90% by 2030
+* reducing malaria mortality rates by at least 90% by 2030
+* eliminating malaria in at least 35 countries by 2030
+* preventing a resurgence of malaria in all countries that are malaria-free.
+Guided by this strategy, the Global Malaria Programme coordinates the WHO’s global efforts to control and eliminate malaria by:
+* playing a leadership role in malaria, effectively supporting member states and rallying partners to reach universal health coverage and achieve goals and targets of the Global Technical Strategy for Malaria;
+* shaping the research agenda and promoting the generation of evidence to support global guidance for new tools and strategies to achieve impact;
+* developing ethical and evidence based global guidance on malaria with effective dissemination to support adoption and implementation by national malaria programmes and other relevant stakeholders; and
+* monitoring and responding to global malaria trends and threats.
+
+
+Cholera
+Key facts
+* Cholera is a severe diarrheal disease that can be fatal within hours if not treated. Quick access to treatment is crucial.
+* Researchers estimate that there are 1.3 to 4.0 million cases and 21 000 to 143 000 deaths from cholera worldwide each year (1).
+* Most people with cholera have no or mild symptoms and can be treated with oral rehydration solution. Severe cases need intravenous fluids, oral rehydration solution and antibiotics.
+* Population’s access to safe water, basic sanitation and hygiene (WASH) is essential to prevent cholera.
+* The oral cholera vaccine (OCV) can help prevent and control cholera.
+________________
+
+
+Overview
+Cholera is an acute diarrheal infection caused by consuming food or water contaminated with the bacterium Vibrio cholerae. It is a global public health threat and indicates inequity and lack of social and economic development. Access to safe water, basic sanitation and hygiene is essential to prevent cholera and other waterborne diseases.
+Most people with cholera have mild or moderate diarrhoea and can be treated with oral rehydration solution (ORS). However, the disease can progress rapidly, so starting treatment quickly is vital to save lives. Patients with severe disease need intravenous fluids, ORS and antibiotics.
+Countries need strong epidemiological and laboratory surveillance to swiftly detect and monitor outbreaks and guide responses.
+Symptoms 
+Cholera can cause severe acute watery diarrhoea, which can be fatal within hours if untreated. Most people infected with V. cholerae do not develop symptoms but can spread the bacteria through their faeces for 1–10 days. Symptoms appear 12 hours to 5 days after infection (2).
+Most people with the disease have mild or moderate symptoms. A minority of patients develop severe acute watery diarrhoea and life-threatening dehydration.
+History 
+Cholera has been known for many centuries. The first pandemic, or global epidemic, was recorded in the 19th century. Since then, six pandemics have killed millions of people worldwide. The current (seventh) pandemic started in south Asia in 1961 and continues to affect populations globally.
+Vibrio cholerae strains 
+Only two serogroups, O1 and O139, cause cholera outbreaks. V. cholerae O1 has caused all recent outbreaks. V. cholerae O139 caused outbreaks in Asia in the past but has recently only been identified in sporadic cases. There is no difference in the illness caused by the two serogroups.
+Epidemiology, risk factors and disease burden 
+Cholera outbreaks occur regularly in some countries. In others, they are less frequent, and it may be years between outbreaks. Cholera is linked to limited access to safe water, basic sanitation facilities and poor hygiene practices. This may be due to conflict, population displacement, climate events like cyclones, floods or drought, and lack of investment in maintaining and improving WASH services and infrastructure.
+The number of cholera cases reported to WHO has continued to rise in recent years. In 2023, 535 321 cases and 4007 deaths were reported to WHO from 45 countries (3). The discrepancy between these figures and the numbers estimated by researchers is likely due to limited surveillance systems and cases not being recorded out of fear of repercussions for trade and tourism.
+Prevention and control 
+Preventing and controlling cholera involves a combination of strengthening surveillance, improving water, sanitation and hygiene, increasing risk communication and community engagement, improving access to quality treatment and implementing oral cholera vaccine campaigns.
+Surveillance
+Cholera surveillance should be part of an integrated disease surveillance system. This includes timely reporting, data analysis, interpretation and sharing of information from local to global levels. Rapid diagnostic tests (RDTs) are useful for early detection of probable cholera outbreaks, but confirmation requires laboratory testing by culture, seroagglutination or polymerase chain reaction (PCR).
+Countries at risk or affected by cholera should strengthen their surveillance systems according to the revised Global Taskforce on Cholera Control (GTFCC) recommendations to quickly detect and respond to outbreaks.
+WASH interventions 
+The long-term solution for cholera control lies in economic development and universal access to safe drinking water, basic sanitation and good hygiene practices. WASH interventions help prevent many waterborne illnesses, including cholera, and contribute to the Sustainable Development Goals. During outbreaks, implementing WASH activities can reduce cholera transmission. These activities include improving WASH in healthcare facilities, conducting water quality monitoring, distributing WASH kits to communities and promoting protective hygiene practices.
+
+
+Treatment 
+Cholera is an easily treatable disease. Most people can be treated successfully with prompt ORS administration. Severely dehydrated patients are at risk of dying from dehydration and need rapid intravenous fluids. They also receive oral rehydration solution and antibiotics. Patients with underlying conditions or comorbidities may require additional care in specific treatment centres. The case fatality rate in treatment centres should remain below 1%.
+Community access to ORS is essential during a cholera outbreak. Mass administration of antibiotics to prevent cholera (chemoprophylaxis) is not recommended, as it has no proven effect on the spread of cholera and may contribute to antimicrobial resistance.
+Community engagement 
+Community engagement involves collaborating with people and communities to develop and implement programmes designed to address their needs. Local culture, practices and beliefs are central to promoting protective practices, such as handwashing with soap and water, safe preparation and storage of food and water, and safe disposal of faeces. Funeral practices for individuals who die from cholera may need to be adapted to prevent infection among attendees. Communities should be involved in deciding the location of oral rehydration points (ORPs) and other community cholera control interventions.
+Community engagement is essential for effectively communicating the potential risks and symptoms of cholera, precautions to take to avoid cholera, when and where to report cases, and the importance of seeking immediate treatment if symptoms appear.
+Oral cholera vaccines
+Currently, three WHO pre-qualified oral cholera vaccines (OCV) are available: Dukoral®, Euvichol-Plus®, and Euvichol-S®. All require two doses to fully protect an adult. One dose of Euvichol-Plus® or Euvichol-S® provides good short-term protection. Euvichol-S®, pre-qualified by WHO in 2024, is a simplified version of Euvichol-Plus®. The Shancol vaccine is no longer produced.
+Euvichol-Plus® and Euvichol-S® do not require a buffer solution and can be given to anyone over one year old. These are the only vaccines currently available for mass vaccination campaigns through the Global OCV Stockpile, supported by Gavi, the Vaccine Alliance. Since October 2022, due to an ongoing global shortage of vaccines, and with the acceptance of the Strategic Advisory Group of Experts SAGE), only one-dose vaccine regimens are being used.
+OCV is safe during pregnancy.
+Cholera kits 
+WHO has developed six cholera kits to support the investigation and confirmation of cholera outbreaks and the treatment of patients:
+* 1 for investigation
+* 1 with supplies for culture confirmation in a laboratory
+* 3 for treatment at the community, peripheral and central levels
+* 1 support kit with logistical materials, including solar lamps, fencing, water bladders and taps.
+Each treatment kit provides enough materials to treat 100 patients.
+More information about cholera kits
+Global Task Force on Cholera Control
+The Global Task Force on Cholera Control (GTFCC) is a partnership of governmental and nongovernmental organizations, UN agencies and academic institutions with a common mission to reduce the global cholera burden. The GTFCC Secretariat is hosted by WHO. GTFCC partners work to:
+* develop global strategies for cholera prevention and control;
+* support countries in long-term control or elimination of cholera through the development of national cholera plans (NCPs);
+* develop and disseminate technical guidelines and operational manuals;
+* support a research agenda to evaluate innovative approaches to cholera prevention and control in affected countries; and
+* increase the visibility of cholera as an important global public health problem.
+More about the GTFCC core activities and progress
+Ending cholera: a roadmap to 2030
+In 2017, the GTFCC published the Ending cholera: a global roadmap to 2030 strategy. It aims to reduce cholera deaths by 90% and eliminate cholera in as many as 20 countries by 2030 through:
+1. early detection and containment of outbreaks through rapid multisectoral response;
+2. a focus on cholera priority areas for multisectoral interventions (PAMIs) – the relatively small areas most heavily affected by cholera; and
+3. an effective coordination mechanism for technical support, advocacy, resource mobilization, and partnership at local and global levels.
+The strategy was endorsed at the Seventy-first World Health Assembly in 2018.
+More about the strategy
+WHO response
+The WHO cholera programme works to increase awareness of cholera and advocate for its control globally. At Member State level, WHO supports countries in all pillars of cholera control including strengthening epidemiological surveillance, reinforcing laboratory capacity, improving access to and quality of treatment, implementing appropriate WASH and IPC practices, promoting community engagement in cholera prevention and control and facilitating OCV access and campaign implementation. WHO and partners also support research for the development of innovative strategies to prevent and control cholera.
+WHO hosts the GTFCC Secretariat and is a member of the International Coordinating Group (ICG) emergency vaccination stockpile coordination mechanism.

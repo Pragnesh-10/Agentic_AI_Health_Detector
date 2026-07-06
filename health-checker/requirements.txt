@@ -1,0 +1,10 @@
+ibm-watsonx-ai
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+pandas
+python-dotenv
+lxml
+requests
+numpy
