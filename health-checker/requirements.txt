@@ -1,5 +1,4 @@
 ibm-watsonx-ai
-sentence-transformers
 faiss-cpu
 fastapi
 uvicorn

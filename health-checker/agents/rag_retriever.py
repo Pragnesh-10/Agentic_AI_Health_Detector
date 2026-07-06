@@ -1,7 +1,9 @@
 import faiss
 import pickle
 import numpy as np
-from sentence_transformers import SentenceTransformer
+from ibm_watsonx_ai.foundation_models import Embeddings
+from ibm_watsonx_ai import Credentials
+from config import IBM_API_KEY, IBM_PROJECT_ID, IBM_URL
 
 _index = None
 _chunks = None
@@ -13,11 +15,18 @@ def _load():
         _index = faiss.read_index("vector_db/index.faiss")
         with open("vector_db/chunks_meta.pkl", "rb") as f:
             _chunks = pickle.load(f)
-        _encoder = SentenceTransformer('all-MiniLM-L6-v2')
+        
+        credentials = Credentials(url=IBM_URL, api_key=IBM_API_KEY)
+        _encoder = Embeddings(
+            model_id="ibm/slate-30m-english-rtrvr",
+            credentials=credentials,
+            project_id=IBM_PROJECT_ID
+        )
 
 def retrieve(query: str, top_k: int = 5) -> list:
     _load()
-    query_vec = _encoder.encode([query]).astype(np.float32)
+    vectors = _encoder.embed_documents([query])
+    query_vec = np.array(vectors).astype(np.float32)
     distances, indices = _index.search(query_vec, top_k)
     results = []
     for i, dist in zip(indices[0], distances[0]):
