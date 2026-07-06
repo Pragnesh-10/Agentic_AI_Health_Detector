@@ -18,7 +18,7 @@ def _load():
         
         credentials = Credentials(url=IBM_URL, api_key=IBM_API_KEY)
         _encoder = Embeddings(
-            model_id="ibm/slate-30m-english-rtrvr",
+            model_id="sentence-transformers/all-minilm-l6-v2",
             credentials=credentials,
             project_id=IBM_PROJECT_ID
         )
