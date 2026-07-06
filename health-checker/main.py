@@ -8,9 +8,13 @@ import os
 
 app = FastAPI(title="Health Symptom Checker API", version="1.0.0")
 
+# Get allowed origins from env, defaulting to wildcard for local dev convenience
+# but easily lockable in production
+allowed_origins = os.getenv("ALLOWED_ORIGINS", "*").split(",")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"]

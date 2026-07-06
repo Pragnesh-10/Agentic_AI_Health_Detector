@@ -391,7 +391,11 @@
     if (existingNote) existingNote.remove();
     
     try {
-      const backendUrl = 'https://agentic-ai-health-detector.onrender.com/check'; // CHANGE THIS to your Render URL (e.g., 'https://your-backend.onrender.com/check')
+      // Dynamically determine the backend URL
+      // If opened locally via file://, use localhost. If hosted (production), use relative /check
+      const backendUrl = window.location.protocol === 'file:' 
+        ? 'http://127.0.0.1:8000/check' 
+        : '/check';
       
       const res = await fetch(backendUrl, {
         method: 'POST',
