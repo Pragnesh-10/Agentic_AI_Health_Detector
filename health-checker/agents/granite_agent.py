@@ -34,22 +34,66 @@ def _generate_text(prompt: str) -> str:
             print(f"Error with fallback model: {fe}")
             raise fe
 
-def extract_symptoms(user_input: str) -> str:
+def extract_symptoms(user_input: str) -> tuple:
     prompt = f"""<|system|>
-You are a medical symptom extractor. Extract only the medical symptoms 
-from the user's message and return them as a comma-separated list. 
-Return only symptoms, nothing else.
+You are a medical symptom extractor. Analyze the user's message and:
+1. Detect the language they are using.
+2. Extract only the medical symptoms.
+3. Translate the symptoms to English if they are not already.
+
+Respond strictly in this format:
+Language: [Detected Language in English, e.g. English, Spanish, Hindi]
+Symptoms: [Comma-separated list of symptoms in English]
 <|user|>
 Text: "{user_input}"
-<|assistant|>
-Symptoms:"""
+<|assistant|>"""
     
     result = _generate_text(prompt).strip()
-    if '\n' in result:
-        result = result.split('\n')[0]
-    return result
+    language = "English"
+    symptoms = ""
+    
+    import re
+    lang_match = re.search(r'Language:\s*(.+)', result, re.IGNORECASE)
+    if lang_match:
+        language = lang_match.group(1).strip()
+        
+    symp_match = re.search(r'Symptoms:\s*(.+)', result, re.IGNORECASE)
+    if symp_match:
+        symptoms = symp_match.group(1).strip()
+    else:
+        # fallback
+        symptoms = result
+        
+    return language, symptoms
 
-def generate_recommendation(symptoms: str, context: str, urgency_level: str) -> str:
+def _get_urgency_dict(level: str) -> dict:
+    level = level.upper()
+    if "EMERGENCY" in level:
+        return {
+            "level": "EMERGENCY",
+            "emoji": "🚨",
+            "color": "red",
+            "message": "Go to the emergency room immediately or call 112.",
+            "action": "Call emergency services now"
+        }
+    elif "HIGH" in level:
+        return {
+            "level": "HIGH",
+            "emoji": "⚠️",
+            "color": "orange",
+            "message": "See a doctor today. Do not wait.",
+            "action": "Book urgent appointment or visit urgent care"
+        }
+    else:
+        return {
+            "level": "MEDIUM",
+            "emoji": "🟡",
+            "color": "goldenrod",
+            "message": "Monitor symptoms. If no improvement in 48 hours, see a doctor.",
+            "action": "Rest, hydrate, and monitor"
+        }
+
+def generate_recommendation(symptoms: str, context: str, user_language: str = "English") -> tuple:
     prompt = f"""<|system|>
 You are a health information assistant providing educational health information. 
 You do not diagnose. You provide general health information based on verified sources.
@@ -60,9 +104,15 @@ A user reports these symptoms: {symptoms}
 Relevant medical information from verified sources:
 {context}
 
-Urgency level assessed: {urgency_level}
+First, assess the urgency of these symptoms.
+Urgency Levels:
+- EMERGENCY (e.g. chest pain, breathing difficulty, stroke signs)
+- HIGH (e.g. high fever, severe pain, confusion)
+- MEDIUM (e.g. standard symptoms to monitor)
 
-Provide a structured response with:
+Provide a structured response. ALWAYS write the final output strictly in the user's language: {user_language}.
+Include:
+URGENCY: [EMERGENCY, HIGH, or MEDIUM] (Write this part in English to allow system parsing, then write the rest in {user_language})
 1. POSSIBLE CONDITIONS: List 2-3 most likely conditions (not a diagnosis)
 2. HOME CARE: Simple steps the person can take at home
 3. SEE A DOCTOR IF: Specific warning signs that require immediate medical attention
@@ -71,41 +121,16 @@ Provide a structured response with:
 Keep language simple. No medical jargon.
 <|assistant|>"""
     
-    return _generate_text(prompt).strip()
-
-def detect_language(text: str) -> str:
-    prompt = f"""<|system|>
-Detect the language of the text and return only the language name in English. 
-Examples: English, Hindi, Telugu, Tamil, Spanish
-<|user|>
-Text: "{text[:100]}"
-<|assistant|>
-Language:"""
     result = _generate_text(prompt).strip()
-    if '\n' in result:
-        result = result.split('\n')[0]
-    return result.strip()
+    
+    # Extract urgency level
+    urgency_level = "MEDIUM"
+    import re
+    match = re.search(r'URGENCY:\s*(\w+)', result, re.IGNORECASE)
+    if match:
+        urgency_level = match.group(1).upper()
+        
+    return result, _get_urgency_dict(urgency_level)
 
-def translate_to_english(text: str, source_lang: str) -> str:
-    if source_lang.lower() == 'english':
-        return text
-    prompt = f"""<|system|>
-Translate the following text from {source_lang} to English. 
-Return only the translation, nothing else.
-<|user|>
-{text}
-<|assistant|>"""
-    return _generate_text(prompt).strip()
 
-def translate_from_english(text: str, target_lang: str) -> str:
-    if target_lang.lower() == 'english':
-        return text
-    prompt = f"""<|system|>
-Translate the following medical recommendations text from English to {target_lang}. 
-Ensure formatting (lists, bullet points, headers) is preserved. 
-Return only the translation, nothing else.
-<|user|>
-{text}
-<|assistant|>"""
-    return _generate_text(prompt).strip()
 
