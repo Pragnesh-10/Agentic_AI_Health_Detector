@@ -391,7 +391,7 @@
     if (existingNote) existingNote.remove();
     
     try {
-      const backendUrl = '/check'; // CHANGE THIS to your Render URL (e.g., 'https://your-backend.onrender.com/check')
+      const backendUrl = 'https://ai-health-backend.onrender.com/check'; // CHANGE THIS to your Render URL (e.g., 'https://your-backend.onrender.com/check')
       
       const res = await fetch(backendUrl, {
         method: 'POST',
