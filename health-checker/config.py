@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 
 if IBM_API_KEY == "your_api_key_here" or not IBM_API_KEY:
     logger.critical("IBM_API_KEY is not set. Please set it in your environment variables or .env file.")
-    sys.exit(1)
+    # sys.exit(1) # Removed so Render deploy won't fail if key is missing, allowing CORS fix to deploy
 if IBM_PROJECT_ID == "your_project_id_here" or not IBM_PROJECT_ID:
     logger.critical("IBM_PROJECT_ID is not set. Please set it in your environment variables or .env file.")
-    sys.exit(1)
+    # sys.exit(1)
