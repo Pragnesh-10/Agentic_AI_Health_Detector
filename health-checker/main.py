@@ -4,6 +4,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 from pipeline import run
+from config import logger
 import os
 
 app = FastAPI(title="Health Symptom Checker API", version="1.0.0")
@@ -15,7 +16,7 @@ allowed_origins = os.getenv("ALLOWED_ORIGINS", "*").split(",")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=allowed_origins,
-    allow_credentials=True,
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"]
 )
@@ -52,6 +53,7 @@ def check_symptoms(request: SymptomRequest):
         result = run(request.message)
         return result
     except Exception as e:
+        logger.exception("Analysis failed due to exception")
         raise HTTPException(
             status_code=500,
             detail=f"Analysis failed: {str(e)}"
@@ -59,4 +61,10 @@ def check_symptoms(request: SymptomRequest):
 
 @app.get("/health")
 def health_check():
-    return {"status": "ok", "message": "Health Symptom Checker is running"}
+    try:
+        from agents.rag_retriever import _load
+        _load()
+        return {"status": "ok", "message": "Health Symptom Checker is running natively and models are accessible."}
+    except Exception as e:
+        logger.error(f"Health check failed: {e}")
+        raise HTTPException(status_code=503, detail="Service Unavailable: Downstream dependencies are failing.")

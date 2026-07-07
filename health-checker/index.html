@@ -234,6 +234,19 @@
       margin-top: 24px;
     }
     
+    .error-banner {
+      background: rgba(239, 68, 68, 0.15);
+      border: 1px solid rgba(239, 68, 68, 0.4);
+      border-left: 4px solid #ef4444;
+      border-radius: 8px;
+      padding: 16px 20px;
+      color: #fca5a5;
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+      word-break: break-word;
+    }
+    
     .section-title:first-of-type {
       margin-top: 10px;
     }
@@ -421,7 +434,15 @@
       renderResult(data);
       
     } catch (err) {
-      alert('Error: ' + err.message);
+      const resultDiv = document.getElementById('result');
+      resultDiv.innerHTML = `
+        <div class="error-banner">
+          <strong style="color: #ef4444; font-size: 16px; display: block; margin-bottom: 8px;">Analysis Error</strong>
+          ${err.message}
+        </div>
+      `;
+      resultDiv.style.display = 'block';
+      resultDiv.scrollIntoView({ behavior: 'smooth' });
     } finally {
       btn.disabled = false;
       btn.textContent = 'Analyze Symptoms';
@@ -430,6 +451,22 @@
   }
   
   function renderResult(data) {
+    const resultDiv = document.getElementById('result');
+    resultDiv.innerHTML = `
+      <div id="urgency-section" style="margin-bottom:16px"></div>
+      
+      <div class="section-title">Symptoms Detected</div>
+      <div class="symptoms-list" id="symptoms"></div>
+      
+      <div class="section-title">Possible Conditions</div>
+      <div class="conditions-list" id="conditions"></div>
+      
+      <div class="section-title">Recommendations</div>
+      <div class="recommendation-text" id="recommendation"></div>
+      
+      <div class="disclaimer" id="disclaimer"></div>
+    `;
+
     // Urgency badge
     const u = data.urgency;
     document.getElementById('urgency-section').innerHTML = `

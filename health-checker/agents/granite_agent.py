@@ -1,11 +1,11 @@
 from ibm_watsonx_ai import Credentials
 from ibm_watsonx_ai.foundation_models import ModelInference
-from config import IBM_API_KEY, IBM_PROJECT_ID, IBM_URL
+from config import IBM_API_KEY, IBM_PROJECT_ID, IBM_URL, IBM_PRIMARY_MODEL, IBM_FALLBACK_MODEL, logger
 
 _model = None
 _fallback_model = None
 
-def _get_model(model_id="meta-llama/llama-3-3-70b-instruct"):
+def _get_model(model_id=IBM_PRIMARY_MODEL):
     credentials = Credentials(url=IBM_URL, api_key=IBM_API_KEY)
     return ModelInference(
         model_id=model_id,
@@ -22,16 +22,16 @@ def _generate_text(prompt: str) -> str:
     global _model, _fallback_model
     try:
         if _model is None:
-            _model = _get_model("meta-llama/llama-3-3-70b-instruct")
+            _model = _get_model(IBM_PRIMARY_MODEL)
         return _model.generate_text(prompt=prompt)
     except Exception as e:
-        print(f"Error with primary model: {e}")
+        logger.error(f"Error with primary model: {e}")
         try:
             if _fallback_model is None:
-                _fallback_model = _get_model("meta-llama/llama-3-1-8b")
+                _fallback_model = _get_model(IBM_FALLBACK_MODEL)
             return _fallback_model.generate_text(prompt=prompt)
         except Exception as fe:
-            print(f"Error with fallback model: {fe}")
+            logger.error(f"Error with fallback model: {fe}")
             raise fe
 
 def extract_symptoms(user_input: str) -> tuple:
