@@ -391,11 +391,11 @@
     if (existingNote) existingNote.remove();
     
     try {
-      // Dynamically determine the backend URL
-      // If opened locally via file://, use localhost. If hosted (production), use relative /check
-      const backendUrl = window.location.protocol === 'file:' 
+      // Use localhost when running locally, otherwise use Render backend
+      const isLocal = window.location.protocol === 'file:' || window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+      const backendUrl = isLocal 
         ? 'http://127.0.0.1:8000/check' 
-        : '/check';
+        : 'https://agentic-ai-health-detector.onrender.com/check';
       
       const res = await fetch(backendUrl, {
         method: 'POST',
